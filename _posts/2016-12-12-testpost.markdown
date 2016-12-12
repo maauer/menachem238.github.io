@@ -1,0 +1,6 @@
+---
+published: true
+title: testpost
+layout: post
+---
+post to build
