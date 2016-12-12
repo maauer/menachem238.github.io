@@ -1,5 +1,5 @@
 excerpt_separator: ""
-pygments: true
+rouge: true
 markdown: kramdown
 url: http://menachem238.github.io
 title: menachem
